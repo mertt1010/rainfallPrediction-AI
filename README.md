@@ -4,6 +4,7 @@ Bu proje, Avustralya Meteoroloji Ofisi tarafından sağlanan hava durumu veri se
 Proje kapsamında, farklı makine öğrenmesi modelleri kullanılarak sınıflandırma problemleri çözülmüş ve modellerin başarıları karşılaştırılmıştır.
 
 🧭 Projenin Amacı
+
 RainTomorrow değişkenini (yarın yağmur yağıp yağmayacağını) tahmin eden bir model geliştirmek.
 
 Farklı algoritmaların (Logistic Regression, Random Forest, Decision Tree) performanslarını karşılaştırmak.
@@ -11,6 +12,7 @@ Farklı algoritmaların (Logistic Regression, Random Forest, Decision Tree) perf
 En iyi tahmin yeteneğine sahip modeli belirlemek.
 
 📊 Kullanılan Veri Seti
+
 Kaynak: Kaggle - Weather Dataset
 
 Boyut: ~56.000 satır, 23 sütun
