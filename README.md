@@ -1,4 +1,5 @@
 🌦️ Yağış Tahmini (Rain Prediction) Projesi
+
 Bu proje, Avustralya Meteoroloji Ofisi tarafından sağlanan hava durumu veri seti kullanılarak, ertesi gün yağmur yağıp yağmayacağını tahmin etmek için gerçekleştirilmiştir.
 Proje kapsamında, farklı makine öğrenmesi modelleri kullanılarak sınıflandırma problemleri çözülmüş ve modellerin başarıları karşılaştırılmıştır.
 
